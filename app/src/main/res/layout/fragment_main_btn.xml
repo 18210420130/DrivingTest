@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <data>
+        <variable
+            name="controller"
+            type="com.liyahong.testdriving.controllers.MainBtnController"/>
+    </data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/main_btn_fragment_test"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:onClick="@{controller.setTestBtnClickListener}">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_margin="@dimen/main_imageview_margin" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_ll_test"
+            android:textSize="@dimen/main_textview_size"
+            android:gravity="center"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/main_btn_fragment_weal"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:onClick="@{controller.setWealBtnClickListener}"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_margin="@dimen/main_imageview_margin" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_textview_weal"
+            android:textSize="@dimen/main_textview_size"
+            android:gravity="center"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main_btn_fragment_community"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:onClick="@{controller.setCommunityBtnClickListener}"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_margin="@dimen/main_imageview_margin"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_textview_community"
+            android:textSize="@dimen/main_textview_size"
+            android:gravity="center"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main_btn_fragment_find"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:onClick="@{controller.setFindBtnClickListener}"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_margin="@dimen/main_imageview_margin" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_textview_find"
+            android:textSize="@dimen/main_textview_size"
+            android:gravity="center"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/main_btn_fragment_buy_car"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:onClick="@{controller.setBuyCarBtnClickListener}">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_margin="@dimen/main_imageview_margin" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_textview_buy_car"
+            android:textSize="@dimen/main_textview_size"
+            android:gravity="center"/>
+
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+</layout>
+
