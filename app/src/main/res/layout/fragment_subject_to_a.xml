@@ -1,24 +1,47 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.liyahong.testdriving.fragments.SubjectToAFragment">
+<layout>
 
+    <data>
+        <variable
+            name="controller"
+            type="com.liyahong.testdriving.controllers.SubjectToAFragmentController"/>
+    </data>
 
-    <LinearLayout
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.liyahong.testdriving.fragments.SubjectToAFragment">
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="专题练习"/>
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="模拟考试"/>
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="horizontal">-->
+            <!--<Button-->
+                <!--android:onClick="@{controller.btnSetOrderTrainingOnClickListener}"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="顺序练题"/>-->
+            <!--<Button-->
+                <!--android:onClick="@{controller.btnSetRandomTrainingOnClickListener}"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="随机练习"/>-->
+        <!--</LinearLayout>-->
+
+        <FrameLayout
+            android:id="@+id/examFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </FrameLayout>
+
+
+
+
+
+
     </LinearLayout>
 
+</layout>
 
-</FrameLayout>

@@ -1,0 +1,919 @@
+
+<questions>
+    <question>
+        <title>在划有道路中心线的道路上会车时，应做到保持安全车速、不越线行驶。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>会车时要放慢车速，临近交会时条件不良，更应控制车速，不能盲目交会，必要时应该先停车，以达到两车顺利交会的目的。</description>
+    </question>
+
+
+    <question>
+        <title>机动车驶进急弯、坡道顶端等影响安全视距的路段时，减速慢行并鸣喇叭示意是为了什么？ </title>
+        <a>测试喇叭是否能正常使用</a>
+        <b>提示前车后方车辆准备超车</b>
+        <c>提示对向交通参与者我方有来车</c>
+        <d>避免行至坡道顶端车辆动力不足</d>
+        <type>single</type>
+        <answer>c</answer>
+        <description>急弯、坡道环境复杂，视距短，无法很好地观察对向交通情况，这时需鸣喇叭提示对向交通参与者我方有来车。</description>
+    </question>
+
+
+    <question>
+        <title>夜间行车，需要超车时，变换远近光灯示意是为了提示前车。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>变换远近光灯提示前车我方要超车，有利于安全行驶。</description>
+    </question>
+
+    <question>
+        <title>如图所示，在这种情况下遇右侧车辆变更车道，应减速保持安全间距，注意避让。  </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <image>attachments\1101100.png</image>
+        <description>安全行车，礼貌让行。</description>
+    </question>
+
+    <question>
+    <title>如图所示，以下哪种情况可以超车？ </title>
+    <a>51d</a>
+    <b>51b</b>
+    <c>51a</c>
+    <d>51c</d>
+    <type>single</type>
+    <answer>c</answer>
+    <image>attachments\1101200.png</image>
+    <description>如图所示，能够超车的必须满足两个条件：一是必须在虚线的一侧，而是对向没有来车。满足这个两个条件的就只有51a了。</description>
+</question>
+
+    <question>
+        <title>遇前方路段车道减少，车辆行驶缓慢，为了保证安全有序应该怎么做？  </title>
+        <a>加速从前车左右超越</a>
+        <b>穿插到前方排队车辆中通过</b>
+        <c>依次交替通行</c>
+        <d>借对向车道迅速通过</d>
+        <type>single</type>
+        <answer>c</answer>
+        <description>《实施条例》第五十三条：
+            机动车在车道减少的路口、路段，遇有前方机动车停车排队等候或者缓慢行驶的，应当每车道一辆依次交替驶入车道减少后的路口、路段。</description>
+    </question>
+
+    <question>
+        <title>如图所示，A车要在前方掉头行驶，可以在此处变换车道，进入左侧车道准备掉头。  </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <image>attachments\1101400.png</image>
+        <description>如图所示，前方是实线区，不可以变换车道。</description>
+    </question>
+
+    <question>
+        <title>机动车、非机动车和行人实行分道行驶，是为了规范交通秩序，提高通行效率。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>分道行驶，才能保证交通井然有序，从而提高效率。</description>
+    </question>
+
+
+    <question>
+        <title> 如图所示，车辆在拥挤路段排队行驶时，遇到其他车辆强行穿插行驶，以下说法正确的是什么？</title>
+        <a>迅速左转躲避</a>
+        <b>持续鸣喇叭警告</b>
+        <c>减速或停车让行</c>
+        <d>迅速提高车速不让其穿插</d>
+        <type>single</type>
+        <answer>c</answer>
+        <image>attachments\1101600.png</image>
+        <description>安全行车，礼貌让行。</description>
+    </question>
+
+
+    <question>
+        <title>如图所示，在这种情况下，A车可以向左变更车道。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <image>attachments\1101700.png</image>
+        <description>左边有车，不具备变更车道的条件，不能向左变更车道。</description>
+    </question>
+
+    <question>
+        <title>路口转弯过程中，持续开启转向灯，主要原因是因为什么？</title>
+        <a>让其他驾驶人知道您在超车</a>
+        <b>给该车让出足够的超车空间</b>
+        <c>避让行人与非机动车</c>
+        <d>以便随时停车</d>
+        <type>single</type>
+        <answer>b</answer>
+        <description>安全驾驶，文明礼让。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车正在被其他车辆超车时，被超车辆减速靠右侧行驶的目的是什么？</title>
+        <a>以上选项都不正确</a>
+        <b>给该车让出足够的超车空间</b>
+        <c>避让行人与非机动车</c>
+        <d>以便随时停车</d>
+        <type>single</type>
+        <answer>b</answer>
+        <description>安全驾驶，文明礼让。</description>
+    </question>
+
+
+    <question>
+    <title>如图所示，驾驶机动车接打电话容易导致发生交通事故。</title>
+    <a>正确</a>
+    <b>错误</b>
+    <type>judge</type>
+    <answer>a</answer>
+    <image>attachments\1129500.png</image>
+    <description>驾驶机动车接打电话会分散驾驶员的注意力，容易导致发生交通事故。</description>
+</question>
+
+    <question>
+        <title>驾驶机动车下长坡时，利用惯性滑行可以减少燃油消耗，值得提倡。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <description>利用惯性滑行虽然会减少燃油消耗，但此举是危险动作，下坡时，不准熄火或用空挡利用惯性滑行。如果下坡滑行，只靠刹车来控制车速，遇到连续下坡的时候可能会造成刹车负担过重，刹车片过热而失灵。
+            正确的做法是：在下长坡道路行驶，挂入低速档利用发动机的牵阻作用可以减少制动器的负担和减少制动次数，防止制动过热引起制动力热衰减；在冰雪、泥泞的路面上行驶，应用发动机牵阻制动可以防止侧滑。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车超车时，前方车辆不减速让路，应停止超车并适当减速，与前方车辆保持安全距离。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>不让超车，就别超了，安全第一。</description>
+    </question>
+
+
+    <question>
+        <title>如图所示，A车货物掉落，导致B车与掉落货物发生碰撞，以下说法正确的是什么？ </title>
+        <a>B车自负责任</a>
+        <b>偶然事件，不可避免</b>
+        <c>各负一半责任</c>
+        <d>A车负全部责任</d>
+        <type>single</type>
+        <answer>d</answer>
+        <image>attachments\1129800.png</image>
+        <description>货车散落货物，导致后面的车辆撞上，货车全责。</description>
+    </question>
+
+
+    <question>
+        <title>闪光警告信号灯为持续闪烁的黄灯，其作用是提示车辆、行人需要快速通过。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <description>黄灯闪烁提示行人车辆注意，确认安全后通过，快速通过是不对的。</description>
+    </question>
+
+
+    <question>
+        <title>因避让特种车辆而发生违法行为，被电子警察拍到时，可向交管部门复议。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>避让特种车辆而发生违法行为可向交管部门复议，不用担心做好事还受罚了。</description>
+    </question>
+
+
+    <question>
+        <title>如图所示，驾驶机动车遇到这种情况时，A车应当注意避让。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <image>attachments\1130100.png</image>
+        <description>《中华人民共和国道路交通安全法》第五十四条明确规定：道路养护车辆、工程作业车进行作业时，在不影响过往车辆通行的前提下，其行驶路线和方向不受交通标志、标线限制，过往车辆和人员应当注意避让。</description>
+    </question>
+
+    <question>
+        <title>如图所示，驾驶过程中遇到这种情况时，A车可以长鸣喇叭提醒道路养护车辆暂停喷水。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <image>attachments\1130200.png</image>
+        <description>《中华人民共和国道路交通安全法》第五十四条明确规定：道路养护车辆、工程作业车进行作业时，在不影响过往车辆通行的前提下，其行驶路线和方向不受交通标志、标线限制，过往车辆和人员应当注意避让。</description>
+    </question>
+
+    <question>
+        <title>在高速公路上驾驶机动车，车辆发生故障后的处置方法，以下说法错误的是什么？ </title>
+        <a>车内乘员应下车辅助将故障车辆推移到紧急停车带上</a>
+        <b>在车后150米以外设置安全警告标志</b>
+        <c>打开危险报警闪光灯，夜间还应开启示廓灯、后位灯</c>
+        <d>所有人员需离开故障车辆，在紧急停车带或护栏以外安全位置报警并等候救援</d>
+        <type>single</type>
+        <answer>a</answer>
+        <description>人员安全第一，人员停留在高速公路上推车容易造成危险。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车发生故障或事故不能正常行驶时，应立即打开危险报警闪光灯。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>第一时间打开危险报警闪光灯，警示其他车辆，是正确的。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车在高速公路上行驶，能见度小于200米时，车速不得超过每小时60公里。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>《中华人民共和国道路交通安全法实施条例》第八十一条：
+            机动车在高速公路上行驶，遇有雾、雨、雪、沙尘、冰雹等低能见度气象条件时，应当遵守下列规定：能见度小于200米时，开启雾灯、近光灯、示廓灯和前后位灯
+            ，车速不得超过每小时60公里，与同车道前车保持100米以上的距离。</description>
+    </question>
+
+
+    <question>
+        <title>上道路行驶的机动车驾驶人未携带机动车驾驶证、行驶证的，除扣留机动车外，并受到什么处罚？</title>
+        <a>罚款</a>
+        <b>拘留</b>
+        <c>吊销驾驶证</c>
+        <d>警告</d>
+        <type>single</type>
+        <answer>a</answer>
+        <description>《道路交通安全违法行为处理程序规定》第十三条：“有下列情形之一的，因无其他机动车驾驶人代替驾驶、违法行为尚未消除、需要调查或者证据保全等原因不能立即放行的
+            ，可以扣留车辆：未悬挂机动车号牌，未放置检验合格标志、保险标志，或者未携带行驶证、机动车驾驶证的。
+            《道路交通安全法》第九十条：“机动车驾驶人违反道路交通安全法律、法规关于道路通行规定的，处警告或者二十元以上二百元以下罚款。本法另有规定的，依照规定处罚。”具体罚款多少，看省市级公安交通管理机关的规定。</description>
+    </question>
+
+    <question>
+        <title>以下哪种行为处十日以下拘留，并处一千元以上二千元以下罚款，吊销机动车驾驶证？ </title>
+        <a>故意遮挡机动车号牌的</a>
+        <b>因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的</b>
+        <c>使用其他车辆保险标志的</c>
+        <d>醉酒驾驶机动车的</d>
+        <type>single</type>
+        <answer>b</answer>
+        <description>依据《中华人民共和国道路交通安全法》：饮酒后驾驶机动车的，处暂扣六个月机动车驾驶证，并处一千元以上二千元以下罚款。因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的，处十日以下拘留
+            ，并处一千元以上二千元以下罚款，吊销机动车驾驶证。</description>
+    </question>
+
+    <question>
+        <title>以下哪种违法行为的机动车驾驶人将被一次记6分？ </title>
+        <a>车速超过规定时速50%以上</a>
+        <b>驾驶与准驾车型不符的机动车</b>
+        <c>驾驶机动车违反道路交通信号灯</c>
+        <d>未取得校车驾驶资格驾驶校车</d>
+        <type>single</type>
+        <answer>c</answer>
+        <description>机动车驾驶人有下列违法行为之一，一次记6分：
+            （一）机动车驾驶证被暂扣期间驾驶机动车的；
+            （二）驾驶机动车违反道路交通信号灯通行的；
+            （三）驾驶营运客车（不包括公共汽车）、校车载人超过核定人数未达20％的，或者驾驶其他载客汽车载人超过核定人数20％以上的；
+            （四）驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路、城市快速路上行驶超过规定时速未达20％的；
+            （五）驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路、城市快速路以外的道路上行驶或者驾驶其他机动车行驶超过规定时速20%以上未达到50%的；
+            （六）驾驶货车载物超过核定载质量30%以上或者违反规定载客的；
+            （七）驾驶营运客车以外的机动车在高速公路车道内停车的；
+            （八）驾驶机动车在高速公路或者城市快速路上违法占用应急车道行驶的；
+            （九）低能见度气象条件下，驾驶机动车在高速公路上不按规定行驶的；
+            （十）驾驶机动车运载超限的不可解体的物品，未按指定的时间、路线、速度行驶或者未悬挂明显标志的；
+            （十一）驾驶机动车载运爆炸物品、易燃易爆化学物品以及剧毒、放射性等危险物品，未按指定的时间、路线、速度行驶或者未悬挂警示标志并采取必要的安全措施的；
+            （十二）以隐瞒、欺骗手段补领机动车驾驶证的；
+            （十三）连续驾驶中型以上载客汽车、危险物品运输车辆以外的机动车超过4小时未停车休息或者停车休息时间少于20分钟的；</description>
+    </question>
+
+
+    <question>
+        <title> 驾驶机动车造成重大交通事故后逃逸，构成犯罪的，由公安机关交通管理部门吊销机动车驾驶证，且终生不得重新取得机动车驾驶证。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>《道路交通安全法》第一百零一条规定：
+            造成交通事故后逃逸的，由公安机关交通管理部门吊销机动车驾驶证，
+            且终身不得重新取得机动车驾驶证。构成犯罪的，依法追究刑事责任。</description>
+    </question>
+
+
+    <question>
+        <title>隐瞒有关情况或者提供虚假材料申请机动车驾驶证，申请人在多少年内不得再次申领机动车驾驶证？</title>
+        <a>3年</a>
+        <b>4年</b>
+        <c>1年</c>
+        <d>2年</d>
+        <type>single</type>
+        <answer>c</answer>
+        <description>《机动车驾驶证申领和使用规定》第六章，第七十八条：
+            隐瞒有关情况或者提供虚假材料申领机动车驾驶证的，申请人在一年内不得再次申领机动车驾驶证。</description>
+    </question>
+
+    <question>
+        <title>以下哪种行为机动车驾驶人将被一次记12分？ </title>
+        <a>驾驶证被暂扣期间驾驶机动车的</a>
+        <b>驾驶机动车不按规定避让校车的</b>
+        <c>驾驶机动车违反道路交通信号灯通行的</c>
+        <d>驾驶与准驾车型不符的机动车的</d>
+        <type>single</type>
+        <answer>d</answer>
+        <description>机动车驾驶人有下列违法行为之一，一次记12分：
+            （一）驾驶与准驾车型不符的机动车的；
+            （二）饮酒后驾驶机动车的；
+            （三）驾驶营运客车（不包括公共汽车）、校车载人超过核定人数20％以上的；
+            （四）造成交通事故后逃逸，尚不构成犯罪的；
+            （五）上道路行驶的机动车未悬挂机动车号牌的，或者故意遮挡、污损、不按规定安装机动车号牌的；
+            （六）使用伪造、变造的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的；
+            （七）驾驶机动车在高速公路上倒车、逆行、穿越中央分隔带掉头的；
+            （八）驾驶营运客车在高速公路车道内停车的；
+            （九）驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路、城市快速路上行驶超过规定时速20％以上或者在高速公路、城市快速路以外的道路上行驶超过规定时速50％以上，以及驾驶其他机动车行驶超过规定时速50%以上的；
+            （十）连续驾驶中型以上载客汽车、危险物品运输车辆超过4小时未停车休息或者停车休息时间少于20分钟的；
+            （十一）未取得校车驾驶资格驾驶校车的。</description>
+    </question>
+
+
+    <question>
+        <title>驾驶机动车时接打电话容易引发事故，以下原因错误的是什么？ </title>
+        <a>驾驶人对路况观察不到位，容易导致操作失误</a>
+        <b>单手握方向盘，对机动车控制力下降</b>
+        <c>电话的信号会对汽车电子设备的运行造成干扰</c>
+        <d>驾驶人注意力不集中，不能及时判断危险</d>
+        <type>single</type>
+        <answer>c</answer>
+        <description>驾驶机动车时接打电话容易引发事故，主要是因为接电话时单手握方向盘，对机动车控制力下降；驾驶人注意力不集中
+            ，不能及时判断危险；驾驶人对路况观察不到位，容易导致操作失误。</description>
+    </question>
+
+
+
+    <question>
+        <title>如图所示，在这起交通事故中，以下说法正确的是什么？ </title>
+        <a>B车负主要责任</a>
+        <b>A车负全部责任</b>
+        <c>B车负全部责任</c>
+        <d>各负一半的责任</d>
+        <type>single</type>
+        <answer>b</answer>
+        <image>attachments\1131300.png</image>
+        <description>这起交通事故主要是因为A车绕开障碍物时未提前观察减速为B车让行造成的，所以A车全责。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车前，以下说法错误的是什么？ </title>
+        <a>调整安全头枕高度，使头枕正对驾驶人的颈椎</a>
+        <b>调整适合驾驶的方向盘位置</b>
+        <c>调整驾驶座椅，保证踩踏踏板舒适</c>
+        <d>调整安全带的松紧与高低</d>
+        <type>single</type>
+        <answer>a</answer>
+        <description>驾驶机动车前，需要：
+            （一）调整驾驶座椅，保证踩踏踏板舒适；
+            （二）调整安全带的松紧与高低；
+            （三）调整适合驾驶的方向盘位置；
+            （四）安全头枕需要对准后脑勺来保护驾驶员的颈椎。</description>
+    </question>
+
+
+    <question>
+        <title>如图所示，驾驶机动车行经该路段时，应减速慢行，避免因眩目导致的交通事故。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <image>attachments\1131500.png</image>
+        <description>该路段为隧道出口，驾驶机动车行经该路段时，应减速慢行，避免因光线突然变化，阳光眩目导致的交通事故。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车遇到前方低速行驶的洒水车作业时，以下做法错误的是什么？ </title>
+        <a>若洒水车无指示箭头，在确保安全的情况下选择合适的车道变更</a>
+        <b>若洒水车有指示箭头，在确保安全的情况下按箭头指示方向变更车道</b>
+        <c>通过洒水车时应急加速通过</c>
+        <d>注意避让</d>
+        <type>single</type>
+        <answer>c</answer>
+        <description>驾驶机动车遇到前方低速行驶的洒水车作业时，需要注意避让；若洒水车有指示箭头，在确保安全的情况下按箭头指示方向变更车道；
+            若洒水车无指示箭头，在确保安全的情况下选择合适的车道变更。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车在高速公路上遇到雨雪天气时，需要降低车速、保持安全距离的原因，以下说法错误的是什么？</title>
+        <a>能见度下降，驾驶人难以及时发现前方车辆</a>
+        <b>降低恶劣天气对车辆造成的损害</b>
+        <c>此类天气条件下的道路上，车辆的制动距离变长</c>
+        <d>为车辆安全行驶提供足够的安全距离</d>
+        <type>single</type>
+        <answer>b</answer>
+        <description>驾驶机动车在高速公路上遇到雨雪天气时能见度下降，驾驶人难以及时发现前方车辆，在此类天气条件下的道路上
+            ，车辆的制动距离变长，需要降低车速，为车辆安全行驶提供足够的安全距离。</description>
+    </question>
+
+
+    <question>
+        <title>驾驶机动车在高速公路发生故障，需要停车排除故障时，以下做法先后顺序正确的是？ ①放置警告标志，转移乘车人员至安全处
+            ，迅速报警②开启危险报警闪光灯③将车辆移至不妨碍交通的位置④等待救援 </title>
+        <a>②③①④</a>
+        <b>①②③④</b>
+        <c>③②①④</c>
+        <d>④③①②</d>
+        <type>single</type>
+        <answer>a</answer>
+        <description>驾驶机动车在高速公路发生故障，需要停车排除故障时，应当进行如下顺序的操作：
+            开启危险报警闪光灯；将车辆移至不妨碍交通的位置；放置警告标志，转移乘车人员至安全处，迅速报警；等待救援。</description>
+    </question>
+
+
+    <question>
+        <title>行人参与道路交通的主要特点除了行走随意性大、方向多变以外，还喜欢聚集、围观。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>这道题如果是单选题的话，则选行人参与道路交通的主要特点是行走随意性大、
+            方向多变。但是此题为判断题，聚集，围观也是行人参与交通的特点。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车在高速公路上行驶，遇有雾、雨、雪、沙尘、冰雹等低能见度气象条件时，
+            能见度在50米以下时，以下做法正确的是什么？ </title>
+        <a>在应急车道上停车等待</a>
+        <b>可以继续行驶，但车速不得超过每小时40公里</b>
+        <c>以不超过每小时20公里的车速从最近的出口尽快驶离高速公路</c>
+        <d> 加速驶离高速公路</d>
+        <type>single</type>
+        <answer>c</answer>
+        <description>机动车在高速公路上行驶，遇有雾、雨、雪、沙尘、冰雹等低能见度气象条件时，
+            能见度小于50米时，开启雾灯、近光灯、示廓灯、前后位灯和危险报警闪光灯，
+            车速不得超过每小时20公里，并从最近的出口尽快驶离高速公路。</description>
+    </question>
+
+    <question>
+        <title>申请人在考试过程中有贿赂、舞弊行为的，申请人在多少年内不得再次申领机动车驾驶证？ </title>
+        <a>2年</a>
+        <b>3年</b>
+        <c>4年</c>
+        <d>1年</d>
+        <type>single</type>
+        <answer>d</answer>
+        <description>根据123号令第六章法律责任的规定：申请人在考试过程中有贿赂、舞弊行为的，取消考试资格，
+            已经通过考试的其他科目成绩无效；申请人在一年内不得再次申领机动车驾驶证。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车遇紧急事务，可以边开车边接打电话。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <description>新修订的《机动车驾驶证申领和使用规定》公布后，2013年1月1日起施行，其中规定：驾驶机动车有拨打、
+            接听手持电话等妨碍安全驾驶的行为的一次记2分。此外，边开车边打电话也会危害人身安全。</description>
+    </question>
+
+    <question>
+        <title>如图所示，驾驶机动车时，前风窗玻璃处悬挂放置干扰视线的物品是错误的。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <image>attachments\1132300.png</image>
+        <description>悬挂物品干扰开车视线，增大了行车危险，容易引发交通事故。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车下长坡时，仅靠行车制动器制动，容易引起行车制动器失灵。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>汽车制动分为三种：
+            1、行车制动,就是脚下的制动踏板,控制四轮；
+            2、驻车制动,就是手刹车,停车时防止前滑后溜；
+            3、发动机制动,也就是抢档,用于刹车失灵,在行车制动失灵时用,一级一级减档,从高到底,利用发动机变速箱的原理使车速降下来。
+            下长坡时，驾驶员长时间使用行车制动器，易造成制动器热衰退，汽车的制动效能变差。</description>
+    </question>
+
+
+    <question>
+        <title>如图所示，在这起交通事故中，以下说法正确的是什么？</title>
+        <a>B车负全部责任</a>
+        <b>都无责任，后果自行承担</b>
+        <c>A车负全部责任</c>
+        <d>各负一半责任</d>
+        <type>single</type>
+        <answer>a</answer>
+        <image>attachments\1132500.png</image>
+        <description>在车道上A车正常行驶，B车掉头导致事故发生，因此，B车负全责。</description>
+    </question>
+
+    <question>
+        <title>如图所示，在环岛交叉路口发生的交通事故中，应由A车负全部责任。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <image>attachments\1132600.png</image>
+        <description>按照规定，驶入环岛的车辆不能影响环岛内车辆的正常通行。因此A车应让B车先行，而此时事故发生，A车应负全责。</description>
+    </question>
+
+    <question>
+        <title>如图所示，在环岛交叉路口发生的交通事故中，应由A车负全部责任。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>行车过程中，车门要关紧，否则会增加行车风险。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车在山路行驶时，为了减少油耗，下坡时可以空挡滑行，并使用行车制动器控制速度。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <description>下坡时用空档滑行容易烧坏变速器，非常危险，属于交通陋习。</description>
+    </question>
+
+    <question>
+        <title>避让特种车辆使其顺利通过后，车辆应有序回到原车道继续行驶，不要尾随特种车辆，以免发生交通事故。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>特种车辆本身车速较快，而且由于其特殊性，驾驶路线与常规车辆也不同。如果跟随特种车会十分危险，因此避让特种车后，要有序回到原车道继续行驶。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车行驶过程中，遇道路养护车辆从本车道逆向驶来时，以下做法正确的是什么？ </title>
+        <a>在原车道继续行驶</a>
+        <b>占用非机动车道行驶</b>
+        <c>靠边减速或停车让行</c>
+        <d>鸣喇叭示意其让道</d>
+        <type>single</type>
+        <answer>c</answer>
+        <description>道路养护车辆有优先权，一定要让行，且要注意正确答案中有“靠边”二字。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车由加速车道进入高速公路行驶，以下做法错误的是什么？</title>
+        <a> 在加速车道上加速，同时要开启左转向灯</a>
+        <b>密切注意左侧行车道的车流状态，同时用后视镜观察后方的情况</b>
+        <c> 充分利用加速车道的长度加速,确认安全后,平顺地进入行车道</c>
+        <d>经加速车道充分加速后，可直接驶入最左侧车道</d>
+        <type>single</type>
+        <answer>d</answer>
+        <description>《中华人民共和国道路交通安全法实施条例》第七十八条：高速公路应当标明车道的行驶速度，最高车速不得超过每小时120公里，最低车速不得低于每小时60公里。在高速公路上行驶的小型载客汽车最高车速不得超过每小时120公里，其他机动车不得超过每小时100公里，摩托车不得超过每小时80公里。同方向有2条车道的，左侧车道的最低车速为每小时100公里；同方向有3条以上车道的，最左侧车道的最低车速为每小时110公里，
+            中间车道的最低车速为每小时90公里。因此，驾车进入高速公路后，不能直接驶入最左车道，要循序渐进。</description>
+    </question>
+
+
+    <question>
+        <title>驾驶机动车在高速公路上车辆发生故障时，为获得其他车辆的帮助，可将警告标志放置在其他车道。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <description>应在本车道放置警告标志，且放置距离为：高速公路是150米以外，道路是50-100米；且只能同车道摆放。</description>
+    </question>
+
+
+    <question>
+        <title>驾驶机动车在高速公路上行驶，遇有雾、雨、雪、沙尘、冰雹等低能见度气象条件下
+            ，能见度在100米以下时，车速不得超过每小时多少公里，与同车道前车至少保持多少米的距离？ </title>
+        <a>  50，30</a>
+        <b>50，40</b>
+        <c>40，40</c>
+        <d>40，50</d>
+        <type>single</type>
+        <answer>d</answer>
+        <description>能见度小于200米时，开启雾灯、近光灯、示廓灯和前后位灯，车速不得超过每小时60公里，与同车道前车保持100米以上的距离；能见度小于100米时，开启雾灯、近光灯、示廓灯、前后位灯和危险报警闪光灯，车速不得超过每小时40公里，与同车道前车保持50米以上的距离；能见度小于50米时，开启雾灯、近光灯、示廓灯、前后位灯和危险报警闪光灯，
+            车速不得超过每小时20公里，并从最近的出口尽快驶离高速公路。</description>
+    </question>
+
+
+    <question>
+        <title>驾驶机动车在高速公路上行驶，能见度小于200米时，与同车道前车应保持100米以上的距离。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>能见度小于200米时，开启雾灯、近光灯、示廓灯和前后位灯，车速不得超过每小时60公里，与同车道前车保持100米以上的距离；能见度小于100米时，开启雾灯、近光灯、示廓灯、前后位灯和危险报警闪光灯，车速不得超过每小时40公里，与同车道前车保持50米以上的距离；能见度小于50米时，开启雾灯、近光灯、示廓灯、前后位灯和危险报警闪光灯
+            ，车速不得超过每小时20公里，并从最近的出口尽快驶离高速公路。</description>
+    </question>
+
+    <question>
+        <title>机动车驾驶人有以下哪种违法行为的，暂扣六个月机动车驾驶证？</title>
+        <a>饮酒后驾驶机动车的</a>
+        <b>醉酒后驾驶机动车的</b>
+        <c>使用伪造、变造机动车驾驶证的</c>
+        <d>伪造、变造机动车驾驶证的</d>
+        <type>single</type>
+        <answer>a</answer>
+        <description>饮酒驾驶机动车辆，罚款1000元—2000元、记12分并暂扣驾照6个月；饮酒驾驶营运机动车，罚款5000元，记12分，处以15日以下拘留，并且5年内不得重新获得驾照。醉酒驾驶机动车辆，吊销驾照，5年内不得重新获取驾照，经过判决后处以拘役，并处罚金；醉酒驾驶营运机动车辆，吊销驾照，10年内不得重新获取驾照，终生不得驾驶营运车辆，经过判决后处以拘役，并处罚金。</description>
+    </question>
+
+    <question>
+        <title>饮酒后或者醉酒驾驶机动车发生重大交通事故构成犯罪的，依法追究刑事责任，吊销机动车驾驶证，将多少年内不得申请机动车驾驶证？ </title>
+        <a>终生</a>
+        <b>十年</b>
+        <c>二十年</c>
+        <d>五年</d>
+        <type>single</type>
+        <answer>a</answer>
+        <description>饮酒驾驶机动车辆，罚款1000元—2000元、记12分并暂扣驾照6个月；
+            饮酒驾驶营运机动车，罚款5000元，记12分，处以15日以下拘留，并且5年内不得重新获得驾照。醉酒驾驶机动车辆，吊销驾照，5年内不得重新获取驾照，经过判决后处以拘役，并处罚金；醉酒驾驶营运机动车辆，吊销驾照，10年内不得重新获取驾照，终生不得驾驶营运车辆，经过判决后处以拘役，并处罚金。
+            饮酒后或者醉酒驾驶机动车发生重大交通事故，构成犯罪的，依法追究刑事责任，
+            并由公安机关交通管理部门吊销机动车驾驶证，终生不得重新取得机动车驾驶证。</description>
+    </question>
+
+    <question>
+        <title>驾驶拼装的机动车上道路行驶的，公安机关交通管理部门应当予以收缴，强制报废
+            ，并吊销机动车驾驶证。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>驾驶拼装的机动车或者已达到报废标准的机动车上道路行驶的，公安机关交通管理部门应当予以收缴，强制报废。对驾驶前款所列机动车上道路行驶的驾驶人，
+            处二百元以上二千元以下罚款，并吊销机动车驾驶证。</description>
+    </question>
+
+
+    <question>
+    <title>机动车驾驶人造成重大交通事故后逃逸，构成犯罪的，十年内不能申请机动车驾驶证。 </title>
+    <a>正确</a>
+    <b>错误</b>
+    <type>judge</type>
+    <answer>b</answer>
+    <description>《交通法》第一百零一条：
+        违反道路交通安全法律、法规的规定，发生重大交通事故，构成犯罪的，依法追究刑事责任，并由公安机关交通管理部门吊销机动车驾驶证。造成交通事故后逃逸的，
+        由公安机关交通管理部门吊销机动车驾驶证，且终生不得重新取得机动车驾驶证。</description>
+</question>
+
+
+    <question>
+        <title>驾驶机动车造成交通事故后逃逸，尚不构成犯罪的，由公安机关交通管理部门处二百元以上二千元以下罚款，可以并处15日以下拘留。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>造成交通事故后逃逸,尚不构成犯罪的由公安机关交通管理部门处二百元以上二千元以下罚款,可以并处15日以下拘留。</description>
+    </question>
+
+    <question>
+        <title>机动车驾驶人一次有两个以上违法行为记分的，应当分别计算累加分值。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>《机动车驾驶证申领和使用规定》第五十六条：
+            对机动车驾驶人的道路交通安全违法行为，处罚与记分同时执行。机动车驾驶人一次有两个以上违法行为记分的，
+            应当分别计算，累加分值。</description>
+    </question>
+
+    <question>
+        <title>隐瞒有关情况或者提供虚假材料申领机动车驾驶证的，申请人在1年内不得再次申领机动车驾驶证。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>《机动车驾驶证申领和使用规定》第七十八条：
+            隐瞒有关情况或者提供虚假材料申领机动车驾驶证的，申请人在一年内不得再次申领机动车驾驶证。申请人在考试过程中有贿赂、舞弊行为的，取消考试资格，已经通过考试的其他科目成绩无效；申请人在一年内不得再次申领机动车驾驶证。</description>
+    </question>
+
+
+    <question>
+        <title>驾驶机动车下长坡时，空挡滑行会导致再次挂挡困难。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>驾驶机动车下长坡时，空挡滑行会导致再次挂挡困难。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车超车时，被超越车辆未减速让路，应迅速提速超越前方车辆完成超车。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <description>驾驶机动车超车时，被超越车辆未减速让路，应停止超车。</description>
+    </question>
+
+    <question>
+        <title>警车、消防车、救护车、工程救险车执行紧急任务时，耽误或影响其通行可能会导致严重后果，所以其他车辆和行人应当主动让行。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>警车、消防车、救护车、工程救险车执行紧急任务时，耽误或影响其通行可能会导致严重后果，所以其他车辆和行人应当主动让行。</description>
+    </question>
+
+    <question>
+        <title>驾驶机动车在高速公路上车辆发生故障时，若车辆可以移动至应急车道内，只需开启危险报警闪光灯，警告标志可根据交通流情况选择是否放置。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <description>驾驶机动车在高速公路上车辆发生故障时，若车辆可以移动至应急车道内，应开启危险报警闪光灯，放置警告标志。</description>
+    </question>
+
+    <question>
+        <title>将机动车交由未取得机动车驾驶证的人驾驶的，由公安交通管理部门处二百元以上二千元以下罚款，可以并处以下哪种处罚？  </title>
+        <a>15日以下拘留</a>
+        <b>吊销驾驶证</b>
+        <c>扣留车辆</c>
+        <d>5年不得重新取得新驾驶证</d>
+        <type>single</type>
+        <answer>b</answer>
+        <description>将机动车交由未取得机动车驾驶证的人驾驶的，由公安交通管理部门处二百元以上二千元以下罚款，并处以吊销驾驶证的处罚。</description>
+    </question>
+
+    <question>
+        <title>申请人以不正当手段取得机动车驾驶证的，公安机关交通管理部门收缴机动车驾驶证，撤销机动车驾驶许可，申请人在3年内不得再次申领机动车驾驶证。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>《中华人民共和国道路运输条例》说明，申请人以不正当手段取得机动车驾驶证的，公安机关交通管理部门收缴机动车驾驶证，撤销机动车驾驶许可，申请人在3年内不得再次申领机动车驾驶证。</description>
+    </question>
+
+    <question>
+        <title>遇后车超车时，在条件许可的情况下应减速靠右让路，是为了给后车留出超车空间。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <description>遇后车超车,可减速靠右避让。安全驾驶，礼貌让行。</description>
+    </question>
+
+    <question>
+        <title>这个仪表是何含义？</title>
+        <a>发动机转速表</a>
+        <b>区间里程表</b>
+        <c>行驶速度表</c>
+        <d>百公里油耗表</d>
+        <type>single</type>
+        <answer>a</answer>
+        <image>attachments\886400.png</image>
+        <description>上面有转速单位：x1000r/min，指针指示的数字乘以一千就是当时的转速。</description>
+    </question>
+
+    <question>
+        <title>这个仪表是何含义？</title>
+        <a>百公里油耗表</a>
+        <b>最高时速值表</b>
+        <c>速度和里程表</c>
+        <d>发动机转速表</d>
+        <type>single</type>
+        <answer>c</answer>
+        <image>attachments\886500.png</image>
+        <description>题目中仪表盘有KM/h和KM，所以显示的是汽车的速度和里程表。</description>
+    </question>
+
+    <question>
+        <title>这个仪表是何含义？</title>
+        <a>压力表</a>
+        <b>电流表</b>
+        <c>水温表</c>
+        <d>燃油表</d>
+        <type>single</type>
+        <answer>c</answer>
+        <image>attachments\886600.png</image>
+        <description>上面有个温度计，是水温表，表示发动机水温。</description>
+    </question>
+
+    <question>
+        <title>这个仪表是何含义？</title>
+        <a>压力表</a>
+        <b>燃油表</b>
+        <c>水温表</c>
+        <d>电流表</d>
+        <type>single</type>
+        <answer>b</answer>
+        <image>attachments\886700.png</image>
+        <description>里面有个加油机器，是燃油表。蓝色区域为油量充足，红色表示油量不足油箱的一半。</description>
+    </question>
+
+    <question>
+        <title>仪表显示当前车速是20公里/小时。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <image>attachments\886800.png</image>
+        <description>图显示的单位是 1/min×1000，意思是每一分钟（注意是分钟）1000转。转速指针为2，即2000转每分钟。
+            而车速还要根据车轮大小来确定。【2×车轮半径×3.14（圆周率）】车轮周长×转速。
+            此图，应该是转速标示图。</description>
+    </question>
+
+    <question>
+        <title>仪表显示当前发动机转速是6000转/分钟。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <image>attachments\886900.png</image>
+        <description>题目中仪表中有KM，这是速度和里程表，表示当前汽车的行驶速度是60公里/小时。</description>
+    </question>
+
+    <question>
+        <title>仪表显示当前冷却液的温度是90度。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <image>attachments\887000.png</image>
+        <description>此表为水温表，表示当前水温为90℃。</description>
+    </question>
+
+    <question>
+        <title>仪表显示油箱内存油量已在警告线以内。 </title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <image>attachments\887100.png</image>
+        <description>正确，此时应及时补充燃油。看到加油站那个机油的机器没，而且指针都到红色区了，说明
+            油量不足了。</description>
+    </question>
+
+
+    <question>
+        <title>机动车仪表板上（如图所示）亮表示什么？ </title>
+        <a>前雾灯打开</a>
+        <b>前照灯远光打开</b>
+        <c>前照灯近光打开</c>
+        <d>后雾灯打开</d>
+        <type>single</type>
+        <answer>a</answer>
+        <image>attachments\887200.png</image>
+        <description>前雾灯绿色光朝左，后雾灯黄色光朝右。</description>
+    </question>
+
+    <question>
+        <title>机动车仪表板上（如图所示）亮表示什么？ </title>
+        <a>前照灯近光打开</a>
+        <b>前照灯远光打开</b>
+        <c>后雾灯打开</c>
+        <d>前雾灯打开</d>
+        <type>single</type>
+        <answer>c</answer>
+        <image>attachments\887300.png</image>
+        <description>前雾灯绿色光朝左，后雾灯黄色光朝右。</description>
+    </question>
+
+    <question>
+        <title>机动车仪表板上（如图所示）亮表示什么？</title>
+        <a>前照灯开启</a>
+        <b>前后雾灯开启</b>
+        <c>前后位置灯开启</c>
+        <d>危险报警闪光灯开启</d>
+        <type>single</type>
+        <answer>c</answer>
+        <image>attachments\887400.png</image>
+        <description>仪表盘此标志亮表示前后位置灯开启。位置灯就是车辆示宽灯，对称的绿色标志。也许有人会觉得像雾灯，
+            但是记住了，雾灯的光是4条平行线还有一条贯穿平行线的斜线。</description>
+    </question>
+
+    <question>
+        <title>打开前雾灯开关，（如图所示）亮起。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <image>attachments\887500.png</image>
+        <description>绿光在左是前雾灯，黄光在右是后雾灯。图中是后雾灯。</description>
+    </question>
+
+    <question>
+        <title>打开后雾灯开关，（如图所示）亮起。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>b</answer>
+        <image>attachments\887600.png</image>
+        <description>绿光在左是前雾灯，黄光在右是后雾灯。图中是前雾灯。</description>
+    </question>
+
+    <question>
+        <title>打开位置灯开关，（如图所示）亮起。</title>
+        <a>正确</a>
+        <b>错误</b>
+        <type>judge</type>
+        <answer>a</answer>
+        <image>attachments\887700.png</image>
+        <description>该指示灯是用来显示车辆示宽灯的工作状态，平时为熄灭状态，当示宽灯打开时，该指示灯随即点亮。当示宽灯关闭或者关闭示宽灯打开大灯时，该指示灯自动熄灭。</description>
+    </question>
+
+
+</questions>

@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.liyahong.testdriving.controllers.MainBtnController;
+import com.liyahong.testdriving.controllers.MainBtnFragmentController;
 import com.liyahong.testdriving.databinding.FragmentMainBtnBinding;
 
 
@@ -25,7 +25,7 @@ public class MainBtnFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         binding= FragmentMainBtnBinding.inflate(inflater);
-        MainBtnController controller=new MainBtnController(MainBtnFragment.this,binding);
+        MainBtnFragmentController controller=new MainBtnFragmentController(MainBtnFragment.this,binding);
         binding.setController(controller);
         return binding.getRoot();
     }

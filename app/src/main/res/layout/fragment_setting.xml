@@ -1,0 +1,22 @@
+<layout>
+    <data>
+        <variable
+            name="controller"
+            type="com.liyahong.testdriving.controllers.SettingFragmentController"/>
+    </data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.liyahong.testdriving.fragments.SettingFragment">
+
+        <ListView
+            android:id="@+id/fragment_setting_listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+</layout>
+
+

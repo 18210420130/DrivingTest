@@ -1,0 +1,42 @@
+<layout>
+    <data>
+        <variable
+            name="controller"
+            type="com.liyahong.testdriving.controllers.MockExamFragmentController"/>
+    </data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"
+        tools:context="com.liyahong.testdriving.fragments.MockExamFragment"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="模拟考试" />
+        </LinearLayout>
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:layout_marginBottom="16dp"
+            android:layout_marginRight="16dp"
+            android:onClick="@{controller.btnNavigateToRandomExamFragmentClickedHandler}"
+            android:src="@android:drawable/stat_notify_sync_noanim" />
+    </LinearLayout>
+
+</layout>
+
+
+
+
+

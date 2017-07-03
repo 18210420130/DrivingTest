@@ -1,0 +1,57 @@
+<layout>
+    <data>
+        <variable
+            name="controller"
+            type="com.liyahong.testdriving.controllers.RandomExamFragmentController"/>
+    </data>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryDark"
+        android:orientation="vertical"
+        tools:context="com.liyahong.testdriving.fragments.RandomExamFragment">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@{controller.title}"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/answerContainer">
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/activity_test_questions_list_btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="下一题"
+            android:onClick="@{controller.btnNextClickListener}"/>
+        <TextView
+            android:id="@+id/activity_test_questions_list_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@{controller.description}"
+            />
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:layout_marginBottom="16dp"
+            android:layout_marginRight="16dp"
+            android:onClick="@{controller.btnNavigateToMockFragmentClickedHandler}"
+            android:src="@android:drawable/stat_notify_sync_noanim" />
+</LinearLayout>
+
+</layout>
+
+
+
+
+
+

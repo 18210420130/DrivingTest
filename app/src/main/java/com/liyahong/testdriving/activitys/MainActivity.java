@@ -1,11 +1,12 @@
 package com.liyahong.testdriving.activitys;
 
 import android.databinding.DataBindingUtil;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.Menu;
 
-import com.liyahong.testdriving.controllers.MainController;
 import com.liyahong.testdriving.R;
+import com.liyahong.testdriving.controllers.MainController;
 import com.liyahong.testdriving.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
@@ -24,9 +25,39 @@ public class MainActivity extends AppCompatActivity {
         binding= DataBindingUtil.setContentView(this, R.layout.activity_main);
         controller = new MainController(this,binding);
         binding.setController(controller);
+
+//        QuestionsReader questionsReader =new QuestionsReader(this,R.raw.questions);
+//        for (Questions questions :questionsReader.getQuestions()){
+//            String title = questions.getTitle();
+//        }
+
     }
 
     public void replace(int type){
          controller.replace(type);
+    }
+
+    //打开侧滑菜单
+    public void openDrawer(){
+        binding.mainDrawerLayout.openDrawer(binding.mainFragmentSetting);
+    }
+
+    //关闭侧滑菜单
+    public void closeDrawer(){
+        binding.mainDrawerLayout.closeDrawer(binding.mainFragmentSetting);
+    }
+
+
+    @Override
+    public boolean onPrepareOptionsMenu(Menu menu) {
+        //侧滑菜单是否打开
+        boolean drawerOpen = binding.mainDrawerLayout.isDrawerOpen(binding.mainFragmentSetting);
+       if (!drawerOpen){
+
+       }else {
+
+       }
+
+        return super.onPrepareOptionsMenu(menu);
     }
 }

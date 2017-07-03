@@ -7,13 +7,16 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.liyahong.testdriving.R;
+import com.liyahong.testdriving.controllers.SubjectToAFragmentController;
+import com.liyahong.testdriving.databinding.FragmentSubjectToABinding;
 
 /**
  * A simple {@link Fragment} subclass.
  */
 public class SubjectToAFragment extends Fragment {
 
+    private FragmentSubjectToABinding binding;
+    private SubjectToAFragmentController controller;
 
     public SubjectToAFragment() {
 
@@ -23,7 +26,15 @@ public class SubjectToAFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_subject_to_a, container, false);
+        binding=FragmentSubjectToABinding.inflate(inflater);
+        controller = new SubjectToAFragmentController(this,binding);
+        binding.setController(controller);
+        return binding.getRoot();
     }
 
+    @Override
+    public void onResume() {
+        controller.onResum();
+        super.onResume();
+    }
 }

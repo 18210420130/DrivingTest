@@ -10,12 +10,12 @@ import com.liyahong.testdriving.fragments.MainBtnFragment;
  * Created by liyahong0327 on 2017/6/19.
  */
 
-public class MainBtnController  {
+public class MainBtnFragmentController {
     private MainBtnFragment fragment;
     private FragmentMainBtnBinding btnBinding;
     private final MainActivity activity;
 
-    public MainBtnController(MainBtnFragment fragment, FragmentMainBtnBinding btnBinding) {
+    public MainBtnFragmentController(MainBtnFragment fragment, FragmentMainBtnBinding btnBinding) {
         this.fragment = fragment;
         this.btnBinding = btnBinding;
         activity = (MainActivity) btnBinding.getRoot().getContext();

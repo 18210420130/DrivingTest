@@ -3,7 +3,7 @@
     <data>
         <variable
             name="controller"
-            type="com.liyahong.testdriving.controllers.MainBtnController"/>
+            type="com.liyahong.testdriving.controllers.MainBtnFragmentController"/>
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -22,7 +22,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@mipmap/ic_launcher"
+            android:src="@mipmap/bottom_exam_normal"
             android:layout_margin="@dimen/main_imageview_margin" />
 
         <TextView
@@ -46,7 +46,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@mipmap/ic_launcher"
+            android:src="@mipmap/bottom_welfare_normal"
             android:layout_margin="@dimen/main_imageview_margin" />
 
         <TextView
@@ -71,7 +71,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@mipmap/ic_launcher"
+            android:src="@mipmap/bottom_school_normal"
             android:layout_margin="@dimen/main_imageview_margin"
             android:layout_gravity="center"/>
 
@@ -97,7 +97,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@mipmap/ic_launcher"
+            android:src="@mipmap/bottom_find_normal"
             android:layout_margin="@dimen/main_imageview_margin" />
 
         <TextView
@@ -120,7 +120,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@mipmap/ic_launcher"
+            android:src="@mipmap/bottom_newcar_normal"
             android:layout_margin="@dimen/main_imageview_margin" />
 
         <TextView

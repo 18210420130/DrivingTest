@@ -1,14 +1,13 @@
 package com.liyahong.testdriving.controllers;
 
-import android.support.v4.app.FragmentTransaction;
-
-import com.liyahong.testdriving.fragments.CommunityFragment;
-import com.liyahong.testdriving.fragments.FindFragment;
-import com.liyahong.testdriving.fragments.MainBtnFragment;
-import com.liyahong.testdriving.fragments.BuyCarFragment;
 import com.liyahong.testdriving.R;
 import com.liyahong.testdriving.activitys.MainActivity;
 import com.liyahong.testdriving.databinding.ActivityMainBinding;
+import com.liyahong.testdriving.fragments.BuyCarFragment;
+import com.liyahong.testdriving.fragments.CommunityFragment;
+import com.liyahong.testdriving.fragments.FindFragment;
+import com.liyahong.testdriving.fragments.MainBtnFragment;
+import com.liyahong.testdriving.fragments.SettingFragment;
 import com.liyahong.testdriving.fragments.TestFragment;
 import com.liyahong.testdriving.fragments.WealFragment;
 
@@ -19,27 +18,43 @@ import com.liyahong.testdriving.fragments.WealFragment;
 public class MainController  {
     private MainActivity activity;
     private ActivityMainBinding binding;
-    private final FragmentTransaction ft;
-    private final TestFragment testFragment;
-    private final WealFragment wealFragment;
-    private final CommunityFragment communityFragment;
-    private final FindFragment findFragment;
-    private final BuyCarFragment buyCarFragment;
+    private  TestFragment testFragment;
+    private  WealFragment wealFragment;
+    private  CommunityFragment communityFragment;
+    private  FindFragment findFragment;
+    private  BuyCarFragment buyCarFragment;
+    private  SettingFragment settingFragment;
 
     public MainController(MainActivity activity, ActivityMainBinding binding) {
         this.activity = activity;
         this.binding = binding;
+        initFragment(activity);
+
+
+
+    }
+
+    private void initFragment(MainActivity activity) {
         testFragment = new TestFragment();
         wealFragment = new WealFragment();
         communityFragment = new CommunityFragment();
         findFragment = new FindFragment();
         buyCarFragment = new BuyCarFragment();
-        ft = activity.getSupportFragmentManager().beginTransaction();
+        settingFragment = new SettingFragment();
         BuyCarFragment mainListFragment=new BuyCarFragment();
         MainBtnFragment mainBtnFragment=new MainBtnFragment();
-        ft.replace(R.id.main_list_fragment,mainListFragment);
-        ft.replace(R.id.main_btn_fragment,mainBtnFragment);
-        ft.commit();
+        activity.getSupportFragmentManager()
+                .beginTransaction()
+                .replace(R.id.main_list_fragment,mainListFragment)
+                .commit();
+        activity.getSupportFragmentManager()
+                .beginTransaction()
+                .replace(R.id.main_btn_fragment,mainBtnFragment)
+                .commit();
+        activity.getSupportFragmentManager()
+                .beginTransaction()
+                .replace(R.id.main_fragment_setting,settingFragment)
+                .commit();
     }
 
     public void replace(int type){
